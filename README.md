@@ -1,2 +1,2 @@
 # jogo.cobrinha
-Desenvolvido em Python
+- Atividade do jogo de cobrinha desenvolvido em Python
